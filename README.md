@@ -1,5 +1,3 @@
-# ecommerce-sales-data-analysis
-Data analysis project exploring sales trends, customer behaviour and business performance using Python and Excel.
 # E-commerce Sales Data Analysis
 
 A data analytics project focused on exploring retail sales data to identify customer behaviour patterns, category performance and business trends through statistical analysis and visualisation.
